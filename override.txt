@@ -79,3 +79,6 @@ mcl_crimson:nether_sprouts inventory,wield nether_sprouts_inv.png
 
 mcl_heads:wither_skeleton bottom wither_skull_head_bottom.png
 mcl_heads:skeleton bottom skeleton_skull_head_bottom.png
+
+mcl_core:vine inventory mcl_core_vine_inv.png
+mcl_flowers:waterlily inventory flowers_waterlily_inv.png
