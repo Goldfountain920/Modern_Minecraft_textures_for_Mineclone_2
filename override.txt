@@ -82,3 +82,5 @@ mcl_heads:skeleton bottom skeleton_skull_head_bottom.png
 
 mcl_core:vine inventory mcl_core_vine_inv.png
 mcl_flowers:waterlily inventory flowers_waterlily_inv.png
+
+mcl_crimson:warped_wart_block all warped_wart_block.png
